@@ -1,0 +1,2 @@
+# SmirkBot
+Smirk Discord Bot
